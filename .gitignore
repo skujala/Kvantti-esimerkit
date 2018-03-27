@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+build/*
+setup.py
+*.c
+*.h
+*.pyx
+*.pxd
+*.so
