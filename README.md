@@ -1,5 +1,7 @@
-# Luentodemonstraatioita Aalto-yliopiston ELEC-C3220 Kvantti-ilmiöt -kurssille
+# Lecture demonstrations for an introductory Quantum Mechanics course at Aalto University School of Electrical Engineering
 
-Alkuperäinen tekijä Sami Kujala
+These Jupyter workbooks (only in Finnish unfortunately) are stored here for demonstration and learning purposes. Feel free to study them and use them as you wish. Only thing I ask is that please let me know if they contain errors, so that I may fix them.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons -lisenssi" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Tämä teos on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen -lisenssillä</a>.
+Sami Kujala
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
